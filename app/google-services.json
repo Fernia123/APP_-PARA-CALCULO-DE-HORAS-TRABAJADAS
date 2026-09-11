@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070702654261",
+    "project_id": "c-t-p-a",
+    "storage_bucket": "c-t-p-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070702654261:android:84e04dca6373509cd3927c",
+        "android_client_info": {
+          "package_name": "com.example.ctpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCa7pMcgjU0F90WBr-oY20xpdXqt24llw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
